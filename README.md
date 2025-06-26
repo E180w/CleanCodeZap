@@ -2,7 +2,6 @@
 
 **CleanCodeZap** — это мощный CLI инструмент для автоматической очистки и оптимизации кода проектов на Python, JavaScript и Go. Инструмент удаляет неиспользуемые импорты, переменные, закомментированный код и автоматически форматирует код согласно стандартам языка.
 
-![Tests](https://github.com/E180w/CleanCodeZap/workflows/Tests/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
