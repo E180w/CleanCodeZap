@@ -1,0 +1,2 @@
+[console_scripts]
+cleancodezap = cleancodezap.cli:main
